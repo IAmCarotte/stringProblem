@@ -1,0 +1,12 @@
+Test plan:
+1.	Input string contain several words and symbol should be twice or more in one or more words
+2.	Input string contain several words and there is no symbol in this string
+3.	Input string is empty
+4.	Null string and Null Symbol
+5.	Case sensitive check
+6.	Input string with only one symbol like "aaa" and symbol a
+There is no requirements for expected results.
+So expected results should be recheck after clarification of requirements.
+
+
+
